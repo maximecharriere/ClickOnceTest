@@ -1,0 +1,5 @@
+C:\dev\ClickOnceTest\WpfApp\WpfApp\bin\Release\net5.0-windows\publish\WpfApp.exe
+C:\dev\ClickOnceTest\WpfApp\WpfApp\bin\Release\net5.0-windows\publish\WpfApp.dll
+C:\dev\ClickOnceTest\WpfApp\WpfApp\bin\Release\net5.0-windows\publish\WpfApp.deps.json
+C:\dev\ClickOnceTest\WpfApp\WpfApp\bin\Release\net5.0-windows\publish\WpfApp.runtimeconfig.json
+C:\dev\ClickOnceTest\WpfApp\WpfApp\bin\Release\net5.0-windows\publish\WpfApp.pdb
