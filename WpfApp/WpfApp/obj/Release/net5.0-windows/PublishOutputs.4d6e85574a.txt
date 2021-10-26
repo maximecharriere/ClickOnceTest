@@ -1,5 +1,0 @@
-C:\dev\ClickOnceTest\WpfApp\WpfApp\bin\publish\WpfApp.exe
-C:\dev\ClickOnceTest\WpfApp\WpfApp\bin\publish\WpfApp.dll
-C:\dev\ClickOnceTest\WpfApp\WpfApp\bin\publish\WpfApp.deps.json
-C:\dev\ClickOnceTest\WpfApp\WpfApp\bin\publish\WpfApp.runtimeconfig.json
-C:\dev\ClickOnceTest\WpfApp\WpfApp\bin\publish\WpfApp.pdb
